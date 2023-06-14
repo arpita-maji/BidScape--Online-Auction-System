@@ -65,23 +65,21 @@ http://localhost:8000/
 ```
 ## Screenshots
 
-![image](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/1970bd9f-81e9-40e2-8ea4-52fd88683182)
+![Screenshot 2023-06-14 010802](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/39957607-2c7c-4ab2-b173-89429c76eb2c)
 
-![image](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/89e0a4a4-318c-4e0c-8f92-66491ebca10d)
+![Screenshot 2023-06-14 010233](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/4d86479b-4442-469a-a890-bbef68c27b85)
 
-![image](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/136b13a1-ddcb-42af-b6e6-db740cdf7883)
+![Screenshot 2023-06-14 010409](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/f3849901-e298-43be-bbfd-7fcd0550275c)
 
-![image](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/07c498ca-acb7-4dd1-ac1b-4f177f2cd391)
+![Screenshot 2023-06-10 215621](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/237b3dbe-1924-421f-8f77-6b6e4ea8f2f2)
 
-![image](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/02372378-8597-444a-8c24-a3e17f923739)
+![Screenshot 2023-06-10 220115](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/c0a309b4-792d-4bfa-b510-a4fbeb96dcbc)
 
-![image](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/f39d0ddd-122b-41b1-aed5-afa81eb076ae)
+![Screenshot 2023-06-10 221357](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/9d2fddb9-4684-4e4e-adf8-65fe401341c3)
 
-![image](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/025a474e-8b9f-49ef-9499-de7fa00b5693)
+![Screenshot 2023-06-10 221155](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/287c7cfe-de24-4819-a303-ab05a02c3321)
 
-![image](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/381678be-3c5e-4346-80c7-edbd5bfcf10e)
-
-![Screenshot 2023-06-10 220538](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/befbf618-05f6-4ee0-8dd6-d1b4a8a4a020)
+![Screenshot 2023-06-10 220538](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/f366aca5-33ee-422b-a5ef-07c03b1f886a)
 
 ## License
 
